@@ -1,0 +1,7 @@
+
+user: hi
+assistant: Hello! How can I assist you with your network-related query today?
+user: What is port numbers?
+assistant: Port numbers are identifiers used to specify a particular process or service on a networked device. They help in directing network traffic to the correct application or service running on a specific device.
+user: device
+assistant: A network device refers to any hardware or software component that is used to connect, manage, or facilitate communication between devices on a computer network. Examples include routers, switches, firewalls, and access points.
