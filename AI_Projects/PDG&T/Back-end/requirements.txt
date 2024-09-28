@@ -1,0 +1,17 @@
+fastapi[standard]
+langchain
+langchain_community
+langchain_openai
+# sudo apt install default-jre 
+tika
+pymupdf
+rapidocr-onnxruntime
+python-dotenv
+langchain-pinecone 
+pinecone-notebooks
+sentence_transformers
+psycopg2-binary
+# faiss-cpu
+langchain-qdrant
+langchain-together
+langchain_milvus
