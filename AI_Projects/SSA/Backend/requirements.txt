@@ -1,0 +1,6 @@
+openai
+pydub
+langchain_community
+langchain_qdrant
+langchain_openai
+bs4
